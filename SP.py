@@ -4,7 +4,7 @@ thePuzzle   = "0000000000000000000ffdd712a852e0d4234e6a"
 
 puzzleID = "zoudji younes"
 
-# Our acctual counter = 1013533938
+# Our acctual counter =  1102293691
 puzzleX = 0 # from the first time x=0
 
 # creating an object to hash with SHA-1
