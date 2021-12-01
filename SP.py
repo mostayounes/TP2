@@ -4,8 +4,8 @@ thePuzzle   = "0000000000000000000ffdd712a852e0d4234e6a"
 
 puzzleID = "zoudji younes"
 
-# Our acctual counter = 3857008
-puzzleX = 3857008 # from the first time x=0
+# Our acctual counter = 1013533938
+puzzleX = 1013533938 # from the first time x=0
 
 # creating an object to hash with SHA-1
 hashSHA1 = hashlib.sha1()
